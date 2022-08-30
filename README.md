@@ -6,3 +6,7 @@
 * Owner of [Everstack](https://www.everstack.com/)
 * Founder and organiser of the [.NET Oxford](https://www.meetup.com/dotnetoxford/) and [Azure Oxford](https://www.meetup.com/azure-oxford/) user groups
 * [@dracan](https://twitter.com/dracan) on Twitter
+
+<br>
+
+![](https://pbs.twimg.com/profile_banners/17221835/1649012570/1500x500)
